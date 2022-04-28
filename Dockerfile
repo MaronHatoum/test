@@ -1,3 +1,3 @@
-from ubuntu:22.04
+from ubuntu:focal
 
 run date
